@@ -4,3 +4,6 @@ a:hover {
 a:active {
 	color:#af09fa ;
 }
+ol {
+	color: red;
+}
