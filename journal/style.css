@@ -1,11 +1,11 @@
 a:hover {
-	color: blue;
+	color: #FF69B4;
 }
 a:active {
-	color:#af09fa ;text-decoration: none
+	color:lightpink; text-decoration: none
 }
 a:link {
-	text-decoration: none
+	text-decoration: none; 
 }
 ol {
 	color: red;	
