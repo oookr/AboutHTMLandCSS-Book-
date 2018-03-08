@@ -1,15 +1,20 @@
 a:hover {
 	color: #FF69B4;
+
 }
 a:active {
 	color:lightpink;
+
 }
 a:link {
 	text-decoration: none; 
+
 }
 ol {
 	color: blue;	
+
 }
 ol li::first-letter {
-	color: red;	
+	color: red;
+
 }
