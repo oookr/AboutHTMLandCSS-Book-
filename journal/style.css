@@ -2,11 +2,15 @@ a:hover {
 	color: #FF69B4;
 }
 a:active {
-	color:lightpink; text-decoration: none
+	color:lightpink;
 }
 a:link {
 	text-decoration: none; 
 }
 ol {
 	color: red;	
+}
+ol li::first-letter {
+	
+	color: blue;	
 }
