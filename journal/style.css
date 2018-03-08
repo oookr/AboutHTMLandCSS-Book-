@@ -8,9 +8,8 @@ a:link {
 	text-decoration: none; 
 }
 ol {
-	color: red;	
+	color: blue;	
 }
 ol li::first-letter {
-	
-	color: blue;	
+	color: red;	
 }
