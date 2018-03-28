@@ -33,12 +33,20 @@ a{
 	color: #625858;
 }
 
+a:hover {
+    color: #ff0000;
+}
+
+a:active {
+    color: #ff4d4d;
+}
+
 a:hover.home {
 	color: #FF69B4;
 }
 
 a:active.home {
-	color:lightpink;
+    color:lightpink;
 }
 
 a:link{
