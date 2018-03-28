@@ -1,9 +1,46 @@
 body{
     background-color: #d2b48c;
-    margin-left: 20%;
-    margin-right: 20%;
-    border: 2px dotted black;
+    margin-left: 19%;
+    margin-right: 19%;
+    margin-top:1%;
+    margin-bottom:1%;
+    /*border: 2px dotted black;*/
+    border-style: solid dashed inset dashed;
+    border-color: pink;
     padding: 10px 10px 10px 10px;
-    font-family: sans-serif;
+    font-family: sans-serif; /*font-family:"Comic Sans MS", cursive, sans-serif; (crazy font)*/
 
+}
+
+p.home::first-letter {
+	color: red;
+	text-decoration: none;
+}
+
+p.home{
+	text-decoration: none;
+}
+
+h2{
+	color: #813b51;
+}
+
+h2 a{
+	color: #044c45;
+}
+
+a{
+	color: #625858;
+}
+
+a:hover.home {
+	color: #FF69B4;
+}
+
+a:active.home {
+	color:lightpink;
+}
+
+a:link{
+	text-decoration: none; 
 }
