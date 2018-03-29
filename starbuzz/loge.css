@@ -35,10 +35,13 @@ a{
 
 a:hover {
     color: #ff0000;
+    /*font-size: 120%; /*fun for Max*/*/
 }
 
 a:active {
     color: #ff4d4d;
+/*    font-size: 180%;
+    float: left;/*fun for Max*/*/
 }
 
 a:hover.home {
