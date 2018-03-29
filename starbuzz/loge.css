@@ -4,7 +4,6 @@ body{
     margin-right: 19%;
     margin-top:1%;
     margin-bottom:1%;
-    /*border: 2px dotted black;*/
     border-style: solid dashed inset dashed;
     border-color: pink;
     padding: 10px 10px 10px 10px;
@@ -31,19 +30,19 @@ h2 a{
 
 a{
 	color: #625858;
+    text-decoration: none; 
 }
 
 a:hover {
     color: #ff0000;
-    /*font-size: 120%; /*fun for Max*/*/
+    /*font-size: 20%; /*fun for Max*/*/
 }
 
 a:active {
     color: #ff4d4d;
-/*    font-size: 180%;
+    /*font-size: 300%;
     float: left;/*fun for Max*/*/
 }
-
 a:hover.home {
 	color: #FF69B4;
 }
@@ -52,6 +51,6 @@ a:active.home {
     color:lightpink;
 }
 
-a:link{
-	text-decoration: none; 
-}
+/*a:link{	
+    background-color: green;
+}*/
