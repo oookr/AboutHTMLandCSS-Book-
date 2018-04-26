@@ -37,6 +37,19 @@ a:hover {
     color: #ff0000;
     /*font-size: 20%; /*fun for Max*/*/
 }
+#mei {
+   background-image: url('images/mem1.png');
+   height: 300px;
+   width: 300px;
+}
+
+#mei:hover {
+   background-image: url('images/mem2.png');
+}
+
+#mei:active {
+    background-image: url('images/mem3.png');
+}
 
 a:active {
     color: #ff4d4d;
